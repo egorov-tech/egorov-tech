@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:016ED7,100:0a1628&height=200&section=header&text=Artem%20Egorov&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=58" width="100%" />
 
-<a href="https://github.com/ArtemEgorov007">
+<a href="https://github.com/egorov-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3200&pause=900&color=5AA2E0&center=true&vCenter=true&width=680&lines=Frontend%3A%20React%20%C2%B7%20TypeScript%20%C2%B7%20Vue%2FNuxt;Product%20%2B%20Performance%20landings%20%2F%20Keitaro;3%2B%20years%20%C2%B7%20open%20to%20remote" alt="Frontend: React · TypeScript · Vue/Nuxt" />
 </a>
 
@@ -27,9 +27,9 @@ Frontend-разработчик, **3+ года** в коммерческой р�
 
 - **100+** адаптивных лендингов под живой рекламный трафик (Figma → прод)
 - Продукт: **React + TypeScript** (EdTech SPA/SSR), **Vue 2 → 3** (Composition API, TS)
-- Свой кейс: [CRM выдачи бирок](https://artemegorov007.github.io/dealio/badges) для промышленного заказчика (Nuxt 3 + Apps Script) — в ежедневной работе у команды
+- Свой кейс: [CRM выдачи бирок](https://egorov-tech.github.io/dealio/badges) для промышленного заказчика (Nuxt 3 + Apps Script) — в ежедневной работе у команды
 - AI-assisted workflow: Cursor, Claude Code, MCP; автоматизация сборки на Python
-- Портфолио-лендинг (без рабочих офферов): [Cade Stories](https://artemegorov007.github.io/cade-stories/)
+- Портфолио-лендинг (без рабочих офферов): [Cade Stories](https://egorov-tech.github.io/cade-stories/)
 
 ## Стек
 
@@ -72,11 +72,11 @@ EdTech: React + TypeScript (SPA/SSR) — ЛК, дашборды, видеопл�
 
 | | Проект | Что это | Стек | Ссылки |
 |:--:|--------|---------|:----:|:------:|
-| 1 | **Dealio** | Kanban + **коммерческая CRM** учёта бирок (промышленный заказчик): поиск 300+ позиций, защита от повторной выдачи, PWA | Nuxt 3 · Pinia · Apps Script | [CRM](https://artemegorov007.github.io/dealio/badges) · [code](https://github.com/ArtemEgorov007/dealio) |
-| 2 | **Cade Stories** | Демо CPA white-page: гайд, блог, legal, mobile-first | PHP · CSS · JS | [demo](https://artemegorov007.github.io/cade-stories/) · [code](https://github.com/ArtemEgorov007/cade-stories) |
-| 3 | **Sonora** | Музыкальный плеер на Jamendo API: очередь, подборки | React 19 · TS · MobX | [demo](https://artemegorov007.github.io/sonora/) · [code](https://github.com/ArtemEgorov007/sonora) |
-| 4 | **Pulse** | Новостная лента (NewsAPI), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://artemegorov007.github.io/pulse/) · [code](https://github.com/ArtemEgorov007/pulse) |
-| 5 | **Gallera** | Галерея с фильтрами и lightbox — FSD | React · FSD | [demo](https://artemegorov007.github.io/gallera/) · [code](https://github.com/ArtemEgorov007/gallera) |
+| 1 | **Dealio** | Kanban + **коммерческая CRM** учёта бирок (промышленный заказчик): поиск 300+ позиций, защита от повторной выдачи, PWA | Nuxt 3 · Pinia · Apps Script | [CRM](https://egorov-tech.github.io/dealio/badges) · [code](https://github.com/egorov-tech/dealio) |
+| 2 | **Cade Stories** | Демо CPA white-page: гайд, блог, legal, mobile-first | PHP · CSS · JS | [demo](https://egorov-tech.github.io/cade-stories/) · [code](https://github.com/egorov-tech/cade-stories) |
+| 3 | **Sonora** | Музыкальный плеер на Jamendo API: очередь, подборки | React 19 · TS · MobX | [demo](https://egorov-tech.github.io/sonora/) · [code](https://github.com/egorov-tech/sonora) |
+| 4 | **Pulse** | Новостная лента (NewsAPI), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://egorov-tech.github.io/pulse/) · [code](https://github.com/egorov-tech/pulse) |
+| 5 | **Gallera** | Галерея с фильтрами и lightbox — FSD | React · FSD | [demo](https://egorov-tech.github.io/gallera/) · [code](https://github.com/egorov-tech/gallera) |
 
 ## GitHub
 
