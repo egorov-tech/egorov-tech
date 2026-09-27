@@ -88,8 +88,8 @@ EdTech: React + TypeScript — ЛК, дашборды, видеоплеер; 100
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=egorov-tech&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=5AA2E0&icon_color=016ED7&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorov-tech&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=5AA2E0&text_color=c9d1d9" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=egorov-tech&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=5AA2E0&icon_color=016ED7&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=egorov-tech&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=5AA2E0&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
