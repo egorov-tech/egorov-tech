@@ -91,7 +91,7 @@ EdTech: React + TypeScript — ЛК, дашборды, видеоплеер; 100
 | 1 | **Dealio** | ERP/CRM учёта бирок (промышленный кейс): поиск 300+ позиций, защита от повторной выдачи, PWA | Nuxt 4 · Vue 3 · Pinia | [CRM](https://egorov-tech.github.io/dealio/) · [code](https://github.com/egorov-tech/dealio) |
 | 2 | **Cade Stories** | Демо CPA white-page: гайд, блог, legal, mobile-first | PHP · CSS · JS | [demo](https://egorov-tech.github.io/cade-stories/) · [code](https://github.com/egorov-tech/cade-stories) |
 | 3 | **Sonora** | Музыкальный плеер (Jamendo API): очередь, подборки | React 19 · TS · MobX | [demo](https://egorov-tech.github.io/sonora/) · [code](https://github.com/egorov-tech/sonora) |
-| 4 | **Pulse** | Новостная лента (NewsAPI), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://egorov-tech.github.io/pulse/) · [code](https://github.com/egorov-tech/pulse) |
+| 4 | **Pulse** | Новостная лента (Dev.to API), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://egorov-tech.github.io/pulse/) · [code](https://github.com/egorov-tech/pulse) |
 | 5 | **Gallera** | Галерея с фильтрами и lightbox — FSD | React · FSD | [demo](https://egorov-tech.github.io/gallera/) · [code](https://github.com/egorov-tech/gallera) |
 | 6 | **Teaboom card** | Pixel-perfect карточка товара | HTML · SCSS · JS | [code](https://github.com/egorov-tech/teaboom-product-card) |
 | 7 | **Agentic Workflow** | Архитектура AI-агентного пайплайна: роли, advisor, правила, память | Claude Code · Cursor · Python | [code](https://github.com/egorov-tech/agentic-workflow-patterns) |
