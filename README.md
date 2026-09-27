@@ -29,8 +29,19 @@ Frontend-разработчик, **3+ года** коммерчески. Зак�
 - **ERP для промышленного заказчика** (Nuxt 4 / Vue 3 / TS / Pinia / PWA): 12+ разделов — бирки по QR, склад, акты, роли. Публичный срез кейса: [Dealio / CRM](https://egorov-tech.github.io/dealio/badges)
 - **TutorPlace** (React + TypeScript): ЛК, дашборды, видеоплеер; **100+** лендингов Figma → прод
 - **Weeek**: кабинет и админка с нуля; миграция Vue 2 → 3, JS → TS
-- AI-assisted: Cursor, Claude Code, MCP — ежедневно
 - Демо white-page (portfolio, не оффер): [Cade Stories](https://egorov-tech.github.io/cade-stories/)
+
+## AI-engineering
+
+Строю процесс, где AI-агенты делают продакшн-работу, а качество держат правила и скрипты:
+
+- **Разделение ролей**: Cursor — исполнитель, Claude Code — лид (ревью, вердикт, память)
+- **Advisor-стратегия**: Sonnet ведёт задачу, Opus подключается точечно и read-only — перед приёмкой и на развилках
+- **Rules-as-code**: `.mdc`-правила по ролям + Python-гейты `validate → click-test (Playwright) → package`
+- **Память команды**: каждый баг → строка `ошибка → правило`, типизированная память читается перед задачей
+- Свои skills, subagents, hooks, MCP (Asana, Slack, Playwright)
+
+→ Архитектура и примеры конфигов: [agentic-workflow-patterns](https://github.com/egorov-tech/agentic-workflow-patterns)
 
 ## Стек
 
@@ -82,7 +93,8 @@ EdTech: React + TypeScript — ЛК, дашборды, видеоплеер; 100
 | 3 | **Sonora** | Музыкальный плеер (Jamendo API): очередь, подборки | React 19 · TS · MobX | [demo](https://egorov-tech.github.io/sonora/) · [code](https://github.com/egorov-tech/sonora) |
 | 4 | **Pulse** | Новостная лента (NewsAPI), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://egorov-tech.github.io/pulse/) · [code](https://github.com/egorov-tech/pulse) |
 | 5 | **Gallera** | Галерея с фильтрами и lightbox — FSD | React · FSD | [demo](https://egorov-tech.github.io/gallera/) · [code](https://github.com/egorov-tech/gallera) |
-| 6 | **Teaboom card** | Тестовое: pixel-perfect карточка товара | HTML · SCSS · JS | [code](https://github.com/egorov-tech/teaboom-product-card) |
+| 6 | **Teaboom card** | Pixel-perfect карточка товара | HTML · SCSS · JS | [code](https://github.com/egorov-tech/teaboom-product-card) |
+| 7 | **Agentic Workflow** | Архитектура AI-агентного пайплайна: роли, advisor, правила, память | Claude Code · Cursor · Python | [code](https://github.com/egorov-tech/agentic-workflow-patterns) |
 
 ## GitHub
 
