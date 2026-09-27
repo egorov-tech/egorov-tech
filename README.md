@@ -26,7 +26,7 @@ Frontend-разработчик, **3+ года** коммерчески. Зак�
 | **Продукт / ERP** | React, TypeScript, Vue/Nuxt — SPA/SSR, ЛК, дашборды, роли, таблицы, формы |
 | **Performance** | CPA/affiliate-лендинги, Keitaro, A/B, Python build-пайплайн (NDA) |
 
-- **ERP для промышленного заказчика** (Nuxt 4 / Vue 3 / TS / Pinia / PWA): 12+ разделов — бирки по QR, склад, акты, роли. Публичный срез кейса: [Dealio / CRM](https://egorov-tech.github.io/dealio/badges)
+- **ERP для промышленного заказчика** (Nuxt 4 / Vue 3 / TS / Pinia / PWA): 12+ разделов — бирки по QR, склад, акты, роли. Публичный срез кейса: [Dealio / CRM](https://egorov-tech.github.io/dealio/)
 - **TutorPlace** (React + TypeScript): ЛК, дашборды, видеоплеер; **100+** лендингов Figma → прод
 - **Weeek**: кабинет и админка с нуля; миграция Vue 2 → 3, JS → TS
 - Демо white-page (portfolio, не оффер): [Cade Stories](https://egorov-tech.github.io/cade-stories/)
@@ -88,7 +88,7 @@ EdTech: React + TypeScript — ЛК, дашборды, видеоплеер; 100
 
 | | Проект | Что это | Стек | Ссылки |
 |:--:|--------|---------|:----:|:------:|
-| 1 | **Dealio** | ERP/CRM учёта бирок (промышленный кейс): поиск 300+ позиций, защита от повторной выдачи, PWA | Nuxt 4 · Vue 3 · Pinia | [CRM](https://egorov-tech.github.io/dealio/badges) · [code](https://github.com/egorov-tech/dealio) |
+| 1 | **Dealio** | ERP/CRM учёта бирок (промышленный кейс): поиск 300+ позиций, защита от повторной выдачи, PWA | Nuxt 4 · Vue 3 · Pinia | [CRM](https://egorov-tech.github.io/dealio/) · [code](https://github.com/egorov-tech/dealio) |
 | 2 | **Cade Stories** | Демо CPA white-page: гайд, блог, legal, mobile-first | PHP · CSS · JS | [demo](https://egorov-tech.github.io/cade-stories/) · [code](https://github.com/egorov-tech/cade-stories) |
 | 3 | **Sonora** | Музыкальный плеер (Jamendo API): очередь, подборки | React 19 · TS · MobX | [demo](https://egorov-tech.github.io/sonora/) · [code](https://github.com/egorov-tech/sonora) |
 | 4 | **Pulse** | Новостная лента (NewsAPI), тёмная тема | Vue 3 · Vuex · Vite | [demo](https://egorov-tech.github.io/pulse/) · [code](https://github.com/egorov-tech/pulse) |
